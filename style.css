@@ -1,0 +1,35 @@
+.full {
+    height:100%;
+    background: url(https://webtechnelson.com/images/clear-day6.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+nav {
+    background-color: #121212;
+}
+
+.pointer {
+    cursor: pointer;
+    cursor: hand;
+}
+
+.jumbotron {
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    background: none;
+    color: white;
+}
+
+.jumbotron a {
+    text-decoration: none;
+    color: white;
+}
+
+#temperature {
+  width: 5rem;
+  box-shadow: none;
+}
