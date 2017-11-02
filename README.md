@@ -1,6 +1,6 @@
 # FreeCodeCamp-Challenge | Intermediate Front End Development Project
 
-Show the Local Weather 
+# Show the Local Weather 
 
 Objective: Build a CodePen.io app that is functionally similar to this: http://codepen.io/FreeCodeCamp/full/bELRjV.
 
