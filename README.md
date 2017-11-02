@@ -1,4 +1,4 @@
-# FreeCodeCamp | Intermediate Front End Development Projects
+# FreeCodeCamp-Challenge | Intermediate Front End Development Project
 
 Show the Local Weather 
 
@@ -17,3 +17,11 @@ User Story: I can push a button to toggle between Fahrenheit and Celsius.
 Note: Many internet browsers now require an HTTP Secure (https://) connection to obtain a user's locale via HTML5 Geolocation. For this reason, we recommend using HTML5 Geolocation to get user location and then use the freeCodeCamp Weather API https://fcc-weather-api.glitch.me which uses an HTTP Secure connection for the weather. Also, be sure to connect to CodePen.io via https://.
 
 Final Project URL:  https://codepen.io/techednelson/full/XRwgRB/
+
+# Contribution
+
+Pull Requests & Issues to report, fix  or enhance this project are welcome. Please follow [these steps](CONTRIBUTING.md) to contribute.
+
+# License
+
+[Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)
